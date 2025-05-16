@@ -19,3 +19,6 @@ Desde MySQL WorkBench importar la base de datos mysqlsampledatabase.sql
 5. Subir todo al repositorio y mostrar la imagen del diagrama en este README.md
 
 ---
+Vista del diagrama classicmodels
+
+![Index](https://raw.githubusercontent.com/HaroldGR27/EjercicioBaseDeDatos/refs/heads/main/orders.png)
